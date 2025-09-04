@@ -1,0 +1,15 @@
+{
+  "name": "proweb-cleaners",
+  "version": "1.0.0",
+  "description": "ProWeb Cleaners - Professional cleaning services website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed' && exit 0",
+    "start": "echo 'Static site - serve index.html' && exit 0"
+  },
+  "keywords": ["cleaning", "laundry", "services", "africa"],
+  "author": "ProWeb Cleaners",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
